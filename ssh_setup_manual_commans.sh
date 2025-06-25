@@ -1,5 +1,8 @@
 #RUN ALL THE COMMANDS MANUALLY ONE BY ONE
 
+# Change root password
+passwd root
+
 # Creating a new user for ssh connection
 adduser username
 
